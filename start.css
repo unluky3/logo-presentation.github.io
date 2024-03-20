@@ -18,9 +18,9 @@
 }
 #hint-for-dumb {
   color: white;
-  position: absolute;
-  margin-top: -42.5%;
-  margin-left: 0%;
+  position: fixed;
+  margin-top: -94.5%;
+  margin-left: 45%;
   width: auto;
   filter: blur(0px);
 }
