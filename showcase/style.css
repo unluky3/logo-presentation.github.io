@@ -154,11 +154,11 @@ body {
 }
 
 .card-group[data-index="1"] > .big-card:nth-child(6) {
-  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/machiato/school_logo(catppuccin_monochrome_no_text).png?raw=true");
+  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/latte/school_logo(catppuccin_no_text).png?raw=true");
 }
 
 .card-group[data-index="1"] > .big-card:nth-child(8) {
-  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/latte/school_logo(catppuccin_no_text).png?raw=true");
+  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/machiato/school_logo(catppuccin_monochrome_no_text).png?raw=true");
 }
 
 .card-group[data-index="2"] > .big-card:nth-child(4) {
