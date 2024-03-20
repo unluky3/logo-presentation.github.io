@@ -139,12 +139,12 @@ body {
 }
 
 .big-card:nth-child(4) {
-  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/latte/school_logo(catppuccin_monochrome_no_text).png?raw=true");
+  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/machiato/school_logo(catppuccin_monochrome_short).png?raw=true");
   transform: rotate(2deg);
 }
 
 .big-card:nth-child(6) {
-  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/machiato/school_logo(catppuccin_monochrome_short).png?raw=true");
+  background-image: url("https://github.com/unluky3/school-logo-catppuccin/blob/2nd-revision/school%20logo/latte/school_logo(catppuccin_monochrome_no_text).png?raw=true");
   transform: translateX(-6%) rotate(-3deg);
 }
 
