@@ -15,6 +15,7 @@
   --button_y:6%;
   --translate_main:100%;
   --translate_button:-470%;
+  --hint:-94.5%;
 }
 #hint-for-dumb {
   color: white;
