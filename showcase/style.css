@@ -13,9 +13,9 @@ body {
 #hint-for-dumb {
   color: white;
   position: absolute;
-  margin-top: 200%;
-  margin-left: 55%;
-  width: 250%;
+  margin-top: -42.5%;
+  margin-left: 0%;
+  width: auto;
   filter: blur(0px);
 }
 #go_to_menu {
