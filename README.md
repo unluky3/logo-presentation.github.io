@@ -1,6 +1,14 @@
 # logo presentation
+
+<style>
+ a{
+ font-family: "Anek Latin", sans-serif;
+ text-decoration:none;
+ transition-time:250ms;
+ }
+ a:hover{
+  scale:1.1;
+ }
+</style>
  
-presentation site for my logo
-https://github.com/unluky3/school-logo-catppuccin
-<br/>
-site : https://unluky3.github.io/logo-presentation.github.io/
+<a href="https://github.com/unluky3/school-logo-catppuccin">presentation</a><a href="https://unluky3.github.io/logo-presentation.github.io/">site</a>  for my logo
