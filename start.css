@@ -24,6 +24,8 @@
   margin-left: 45%;
   width: auto;
   filter: blur(0px);
+  transition-delay:0.5s;
+  transition-duration:1s;
 }
 body {
   display: flex;
