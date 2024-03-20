@@ -297,7 +297,7 @@ h1 {
   backdrop-filter: blur(10px);
 }
 .info:hover {
-  border-radius: 0px;
+  border-radius: 2.5px;
   scale: 1.025;
   transform: translate(-5%, 68%);
   --div-scale: 1.1;
