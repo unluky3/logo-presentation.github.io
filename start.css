@@ -20,7 +20,7 @@
 #hint-for-dumb {
   color: white;
   position: fixed;
-  margin-top: -94.5%;
+  margin-top: var(--hint);
   margin-left: 45%;
   width: auto;
   filter: blur(0px);
