@@ -33,5 +33,5 @@ const handleHateClick = () => {
     activeIndex = nextIndex;
   });
 }
-setTimeout(handleLoveClick,1000);
-setInterval(handleLoveClick,15000)
+setTimeout(handleLoveClick(),5000);
+setInterval(handleLoveClick,10000)
