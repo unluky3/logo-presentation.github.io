@@ -110,3 +110,7 @@ body {
   text-decoration: none;
   transition: opacity 400ms ease;
 }
+.github{
+  scale:0.5;
+  margin-left:-33%;
+}
