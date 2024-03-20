@@ -16,6 +16,7 @@ body {
   margin-top: 200%;
   margin-left: 55%;
   width: 250%;
+  filter: blur(0px);
 }
 #go_to_menu {
   filter: blur(1.5px) sepia(25%);
