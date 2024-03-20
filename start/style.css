@@ -15,12 +15,13 @@
   --button_y:6%;
   --translate_main:100%;
   --translate_button:-470%;
+  --hint:-94.5%;
 }
 #hint-for-dumb {
   color: white;
-  position: absolute;
-  margin-top: -42.5%;
-  margin-left: 0%;
+  position: fixed;
+  margin-top: var(--hint);
+  margin-left: 45%;
   width: auto;
   filter: blur(0px);
 }
