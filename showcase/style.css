@@ -255,3 +255,8 @@ body {
   color: rgb(33, 150, 243);
   border-color: rgb(33, 150, 243);
 }
+
+#hate-button {
+  color: rgb(243, 150, 33);
+  border-color: rgb(243, 150, 33);
+}
