@@ -34,4 +34,3 @@ const handleHateClick = () => {
   });
 }
 setTimeout(handleLoveClick(),5000);
-setInterval(handleLoveClick,10000)
